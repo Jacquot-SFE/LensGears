@@ -25,22 +25,24 @@ The files here were done for my lenses.  They may need adjustment for your own l
 
 Apparently these were in production for a long time, and there are some differences over their lifetime.  My lenses are "Zebra" style, with exposed, shiny aluminum rectangles on the aperture and focus rings.  I've also seen some all black versions, usually coming from Poland.
 
-The OD of each gear is the same: 
+
+The OD of each gear is the same: 2.564"
 
 The ID I measures on each focus ring:
 
 * 12mm: 44.3mm 
 * 20mm: 44.44mm
-* 50mm: 46 ~  not entirely round?  45.9 to 46.05
+* 50mm #1: 46 (+/- 0.1)  not entirely round?  45.9 to 46.05
+* 50mm #2: 46 (+/- 0.1)  not entirely round?  45.9 to 46.05
 
 ## Notes on cutting
 
 First gears were cut from clear acrylic, for the 20mm.
 
-ID set to 44.44 caused actual ID (allowing for kerf?) to be more like 44.7mm.  Adjusting downward by a bit, to 44.1mm, seems to fit better.  Same gear it fitting the 12mm and 20mm.
+ID set to 44.44 caused actual ID (allowing for kerf?) to be more like 44.7mm.  Adjusting downward by a bit, to 44.1mm, seems to fit better.  Same gear is fitting the 12mm and 20mm.
 
 Cutter adjustments: Was doing 3 passes.  First 2 at 10 % speed, 100% power, 5000 Hz.  With those, the ID hole was cut, but teeth were still stuck.  3rd pass of just the teeth, raised to 25% speed, cut it nicely.
 
 Only limited luck with black delrin yet.  Best results:
 3.3mm black delrin, 20 % speed, 100% power, 500 Hz.  4 passes.
-One issue is that the material warms as it heats up.  Another issue is that it wants to burn if the laser moves too slow, making the warping even worse.
+One issue is that the material warps as it heats up.  Another issue is that it wants to burn if the laser moves too slow, making the warping even worse.
